@@ -1,0 +1,96 @@
+Index/Homepage
+i.	 Logo of the business
+ The logo of the company will be display on the top left side of the homepage
+ii.	Navigation Menu.
+ This is the navigation where the user will be able to find their way to the other web pages.
+ Links to about us, products and services, gallery, contact us. 
+iii.	Background picture related to the website
+ This is the picture that will display one of the solar panels that have been installed on a roof of a customer.
+iv.	Quick overview of company website.
+ This will display the text that will give the quick overview of the business.
+ Timone Electrical (Pty) Ltd is your trusted partner for comprehensive electrical solutions, solar energy installations, and home automation services. With a focus on efficiency, professionalism, and customer satisfaction, we cater to individual homeowners and businesses of all sizes. Contact us today to experience excellence in electrical services. 
+v.	Summary of services.
+ Timone Electrical (Pty) Ltd Timone Electrical is a versatile and customer-centric electrical solutions provider specializing in three main areas: Electrical, Solar Solutions, and Home Automation.
+•	Electrical Solutions
+•	Solar Energy Installations
+•	Home Automation Systems
+vi.	Links to social media pages
+ Facebook: https://www.facebook.com/TimoneElectrical 
+ LinkedIn: https://www.linkedin.com/in/timone-electrical-solar-installations-899178236/?originalSubdomain=za 
+vii.	Overview of contact details.
+ Email: timone.elec@outlook.com
+Contact number: +27-745498675 - Gerrie Viljoen
+Address: 32 Concorde Avenue, Helderkruin, Roodepoort, South Africa
+viii.	Secondary navigation to landing page.
+ This is the second navigation where the user will have easier access back to which ever website they would like to be in and to have quicker access to the other webpages.
+ix.	Copyright/Year
+             Copyright @ 2024 All rights reserved - Timone Electrical (Pty) Ltd 
+ 
+Services
+i.	Small logo of the business
+  The logo of the company will be display on the top left side of the homepage and will lead user to the homepage to enhance user experience.
+ii.	Navigation Menu
+ This is the navigation where the user will be able to find their way to the other web pages.
+iv.	Hero Shot
+There will be a hero shot of one of the services completed from the company.
+v.	Display pictures of services of business
+ This will show the pictures of the services done by the company. 
+vi.	Display text services of the business
+ Electrical
+Electrical Construction and Maintenance, Generators and Compressors - Supply and Install. Lighting and Ventilation solutions. Cable Tray work. Earthing and Bonding. Lightning Protection - Low and medium Voltage systems. UPS - Supply, Install and Maintain. CoC on Single and 3 Phase Installation
+ Solar Solutions
+Inverter, battery and Solar Panel Installations. Complete Solar power Solutions. Agricultural Solar. Backup system or Cutting down on your electricity bill and off grid Solutions. Tailor made Mounting Structures. Monitoring and Maintenance.
+ Home Automation
+Automated Gates and Garage doors sliding or swinging. To your house being automated. Google home, Alexa home, Sonoff, Schneider and CBI to name a few.	
+vii.	Contact details
+ Email: timone.elec@outlook.com
+Contact number: +27-745498675 - Gerrie Viljoen
+
+
+ 
+Gallery
+i.	Small logo of the business
+ The logo of the company will be display on the top left side of the homepage and will lead user to the homepage to enhance user experience.
+ii.	Navigation Menu
+ This is the navigation where the user will be able to find their way to the other web pages. 
+iii.	Display pictures
+ Display pictures of the business services and the completed jobs
+ Welcome to Our Gallery
+Explore our gallery to see stunning images of our projects and installations. From electrical solutions to solar energy installations and home automation systems, our gallery showcases our expertise and dedication to quality.
+iv.	Contact details
+ Contact Us
+If you have any inquiries or need our services, feel free to contact us:
+ Email: timone.elec@outlook.com
+Contact number: +27-745498675 - Gerrie Viljoen
+Address: 32 Concorde Avenue, Helderkruin, Roodepoort, South Africa
+
+ 
+About Us
+i.	Small logo of the business
+ The logo of the company will be display on the top left side of the homepage and will lead user to the homepage to enhance user experience.
+ii.	Navigation Menu
+ This is the navigation where the user will be able to find their way to the other web pages.
+iii.	Information about the business
+ About the business.
+ We are an electrical contracting and service company specializing in working for individual homeowners and small and large business owners in our service areas. Our business model is unique and our electrical service managers are professionals who run very efficient, highly professional operations that help us keep overhead costs down, so we can keep your costs as low as possible. We are a new generation of electrical service contractors focused on local business. We work hard to build and maintain a solid reputation for excellence. Our honesty and loyalty are reflected in the numerous great reviews we’ve received from many of our customers.
+iv.	Contact details
+ Email: timone.elec@outlook.com
+Contact number: +27-745498675 - Gerrie Viljoen
+Address: 32 Concorde Avenue, Helderkruin, Roodepoort, South Africa
+
+ 
+Contact Us
+i.	Navigation Menu
+ This is the navigation where the user will be able to find their way to the other web pages.
+ii.	Small logo of the business
+ The logo of the company will be display on the top left side of the homepage and will lead user to the homepage to enhance user experience.
+iii.	Contact fillable form
+ Fillable form for customer to contact the company as well as a small customer review and rating.
+iv.	Contact details
+Email: timone.elec@outlook.com
+Contact number: +27-745498675 - Gerrie Viljoen
+Address: 32 Concorde Avenue, Helderkruin, Roodepoort, South Africa
+ Google maps location
+v.	Copyright/Year
+ Copyright @ 2024 All rights reserved - Timone Electrical (Pty) Ltd
+
